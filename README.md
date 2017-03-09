@@ -1,4 +1,3 @@
-# Test
 
 ### Autocomplete Datalist Input ###
 
